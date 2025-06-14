@@ -2,13 +2,14 @@
  <hr></hr>
 <p align="center">
   <samp>
-    Hi, I'm Saad! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :email:	saadpasta70@gmail.com <br>
-    :art: Portfolio: https://saadpasta.github.io <br>
-                Twitter: https://twitter.com/saadpastadev?lang=en<br>
-  :briefcase: Building https://www.refactornow.dev/ - Learn the Art of Refactoring <br>
+   Hey, I'm Mohammad Asif Hasnain! 👋
+🚀 Web & Python Developer passionate about crafting clean, scalable, and user-focused applications
+🛠️ Favorite Tech: JavaScript (React, TypeScript), Python (Flask, Django), HTML/CSS
+🔁 I love turning complex problems into simple, elegant solutions
+📬 Let’s connect: saadpasta70@gmail.com
+🌐 Portfolio: 
+🐦 Twitter:
+💼 Currently building: RefactorNow – Learn the Art of Refactoring Code with Confidence
 
   </samp>
 </p>
