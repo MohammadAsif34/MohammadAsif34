@@ -1,4 +1,4 @@
-[image](./banner.png)
+[!ss](./banner.png)
  <hr></hr>
 <p align="center">
   <samp>
